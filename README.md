@@ -46,5 +46,5 @@ Prepare for some jaw-dropping action, hilarious moments, and a fun ride with Egg
 ---
 
 ### This is a picture of Eggsy:
-![Eggsy](kingsman2.jpg)
+![Eggsy](kings.jpg)
 
