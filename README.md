@@ -43,8 +43,4 @@ Fans of stylish action films with sharp wit, over-the-top action scenes, and a b
 
 Prepare for some jaw-dropping action, hilarious moments, and a fun ride with Eggsy and the Kingsman agents!
 
----
-
-### This is a picture of Eggsy:
-![Eggsy](kings.jpg)
 
